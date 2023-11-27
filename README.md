@@ -1,7 +1,10 @@
 👨‍🎓<h1>Hankuk Univeristy of Foreign Studies</h1>
 <h3>🧑‍💻Department of Information Communications Engineering</h3>
 
-<h2>Graduation Thesis Topic : "Improving Network Intrusion Detection Speed based on Auto Encoder"</h2>
+
+
+<h2>Graduation Thesis Topic</h2> 
+<border>"Improving Network Intrusion Detection Speed based on Auto Encoder"</border>
 
 0. Experiment environment
 
