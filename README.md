@@ -55,31 +55,37 @@
 
 ### 7. Result
 ****
-   All the left side of graph is result about using all feature and the right side of graph is result about using feature selection algorithm
+   <h2>All the left side of graph is result about using all feature and the right side of graph is result about using feature selection algorithm</h2>
    ****
+   
   - CPU usage
     ![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/ba7973f6-81cc-449c-b778-d2e84e2f0e45)
 
  ****
+ 
  - Training Time
    ![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/bdf4bd3c-5655-4d70-9404-ec20d1942d65)
 
 ****
+
  - Memory usage
    ![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/0febe8cb-698c-4590-aff8-acda7552b3f3)
 
 ****
+
 This experiences show us that decreasing overhead when we use feature selection algorithm.
 
 And The following results show that if the overhead is reduced using the feature selection algorithm, the model's performance is not significantly harmed.
 
 ****
 
-Confusion Matrix
+<h2>Confusion Matrix</h2>
 
-![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/ffa147d9-3908-4dfd-97d3-b9182c92feb0)
 - using all feature
+![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/ffa147d9-3908-4dfd-97d3-b9182c92feb0)
 
 *****
-![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/bffd815b-a7b8-440c-b84c-f047a6b3e76e)
 - using feature selection algorithm
+![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/bffd815b-a7b8-440c-b84c-f047a6b3e76e)
+
+
