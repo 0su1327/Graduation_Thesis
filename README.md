@@ -1,18 +1,18 @@
-👨‍🎓<h1>Hankuk Univeristy of Foreign Studies</h1>
+👨‍🎓#<h1>Hankuk Univeristy of Foreign Studies</h1>
 
-<p>🧑‍💻Department of Information Communications Engineering</p>
+<p>##🧑‍💻Department of Information Communications Engineering</p>
 
 
 
-<h2>Graduation Thesis Topic</h2> 
-<h3>"Improving Network Intrusion Detection Speed based on Auto Encoder"</h3>
+<h2>###Graduation Thesis Topic</h2> 
+<h3>###"Improving Network Intrusion Detection Speed based on Auto Encoder"</h3>
 
-0. Experiment environment
+0. ####Experiment environment
 
 ![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/a2c15605-c99f-48a7-b42f-c3da025a57b6)
 
 
-1. Difference from existing research
+1. ####Difference from existing research
    
 ![image](https://github.com/0su1327/Graduation_Thesis/assets/81498362/47ef6a0f-9bbf-4a2a-b6b9-9c97ce8dec53)
 
@@ -24,9 +24,9 @@
 
 3. DATASET
 
-USING NSL-KDD DATASET 
+   USING NSL-KDD DATASET 
 
-ref : https://discuss.pytorch.org/t/pre-processing-on-nsl-kdd-dataset/80995
+   ref : <a href = https://discuss.pytorch.org/t/pre-processing-on-nsl-kdd-dataset/80995>NSL-KDD pre-processing</a>
 
 
 4. Feature Selection Algorithm
