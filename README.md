@@ -1,6 +1,6 @@
-👨‍🎓#<h1>Hankuk Univeristy of Foreign Studies</h1>
+👨‍🎓#Hankuk Univeristy of Foreign Studies
 
-<p>##🧑‍💻Department of Information Communications Engineering</p>
+##🧑‍💻Department of Information Communications Engineering
 
 
 
