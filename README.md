@@ -5,7 +5,7 @@
 
 
 <h2>Graduation Thesis Topic</h2> 
-<border>"Improving Network Intrusion Detection Speed based on Auto Encoder"</border>
+<h3>"Improving Network Intrusion Detection Speed based on Auto Encoder"</h3>
 
 0. Experiment environment
 
